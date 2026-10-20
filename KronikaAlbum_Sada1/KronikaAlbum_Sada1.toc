@@ -1,0 +1,9 @@
+## Interface: 16001, 11507
+## Title: Kronika guildy - Album: Sada 1 (Azeroth, začátek)
+## Notes: Sada sběratelských karet pro Album v Kronice guildy. Funguje jen s addonem Kronika guildy.
+## Author: salifox
+## X-License: All Rights Reserved
+## Version: 0.1.0
+## Dependencies: CechovniKronika
+
+Sada.lua
